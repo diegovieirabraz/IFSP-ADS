@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\pooexfibonacci\bin\Debug\pooexfibonacci.exe.config
+C:\Users\diego\source\repos\pooexfibonacci\bin\Debug\pooexfibonacci.exe
+C:\Users\diego\source\repos\pooexfibonacci\bin\Debug\pooexfibonacci.pdb
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.Form1.resources
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.Properties.Resources.resources
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.exe
+C:\Users\diego\source\repos\pooexfibonacci\obj\Debug\pooexfibonacci.pdb

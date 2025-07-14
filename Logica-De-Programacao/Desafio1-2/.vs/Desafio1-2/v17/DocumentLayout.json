@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|C:\\Users\\diego\\source\\repos\\Desafio1-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|C:\\Users\\diego\\source\\repos\\Desafio1-2\\pesoideal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|solutionrelative:pesoideal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|C:\\Users\\diego\\source\\repos\\Desafio1-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|c:\\users\\diego\\source\\repos\\desafio1-2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|C:\\Users\\diego\\source\\repos\\Desafio1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52C9D1B-B871-4AD0-B5E3-E8B33F2CD179}|Desafio1-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:13:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:10:06.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PesoIdeal.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\PesoIdeal.cs",
+              "RelativeDocumentMoniker": "PesoIdeal.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\PesoIdeal.cs",
+              "RelativeToolTip": "PesoIdeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:40:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:38:07.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Desafio1-2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:27:50.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

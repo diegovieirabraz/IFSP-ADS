@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|c:\\users\\diego\\source\\repos\\projetoabstract\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|c:\\users\\diego\\source\\repos\\projetoabstract\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|c:\\users\\diego\\source\\repos\\projetoabstract\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|solutionrelative:forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|c:\\users\\diego\\source\\repos\\projetoabstract\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|c:\\users\\diego\\source\\repos\\projetoabstract\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|c:\\users\\diego\\source\\repos\\projetoabstract\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51242A01-5D15-487C-A7C7-6E99613C7D72}|Projetoabstract.csproj|solutionrelative:quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:35:39.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:13:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Quadrado.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Quadrado.cs",
+              "RelativeToolTip": "Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:34:13.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:55:30.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:11:59.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Forma.cs",
+              "RelativeDocumentMoniker": "Forma.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Projetoabstract\\Forma.cs",
+              "RelativeToolTip": "Forma.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:07:46.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

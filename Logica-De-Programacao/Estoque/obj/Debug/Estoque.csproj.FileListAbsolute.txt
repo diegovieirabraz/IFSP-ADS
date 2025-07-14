@@ -1,0 +1,7 @@
+C:\Users\diego\source\repos\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\diego\source\repos\Estoque\bin\Debug\Estoque.exe
+C:\Users\diego\source\repos\Estoque\bin\Debug\Estoque.pdb
+C:\Users\diego\source\repos\Estoque\obj\Debug\Estoque.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Estoque\obj\Debug\Estoque.exe
+C:\Users\diego\source\repos\Estoque\obj\Debug\Estoque.pdb

@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.Form1.resources
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.Properties.Resources.resources
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Pulverizacao\bin\Debug\Pulverizacao.exe.config
+C:\Users\diego\source\repos\Pulverizacao\bin\Debug\Pulverizacao.exe
+C:\Users\diego\source\repos\Pulverizacao\bin\Debug\Pulverizacao.pdb
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.exe
+C:\Users\diego\source\repos\Pulverizacao\obj\Debug\Pulverizacao.pdb

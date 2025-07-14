@@ -1,0 +1,20 @@
+--- DADOS INICIAIS DE P1 ---
+Paciente: Carlos Pereira
+Médico: Dr. Mendes
+Data: 05/08/24
+Hora: 10:30:00
+
+--- DADOS INICIAIS DE P2 ---
+Paciente: Diego
+Médico: DR Marcelo
+Data: 15/10/20
+Hora: 12:30:00
+
+--- DADOS DE P1 APÓS ALTERAÇÃO ---
+Paciente: Gustavo
+Médico: DR Pedro
+Data: 01/01/20
+Hora: 11:00:00
+
+
+Quantidade final de consultas agendadas: 2

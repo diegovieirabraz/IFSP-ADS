@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.Form1.resources
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.Properties.Resources.resources
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Exame\bin\Debug\Exame.exe.config
+C:\Users\diego\source\repos\Exame\bin\Debug\Exame.exe
+C:\Users\diego\source\repos\Exame\bin\Debug\Exame.pdb
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.exe
+C:\Users\diego\source\repos\Exame\obj\Debug\Exame.pdb

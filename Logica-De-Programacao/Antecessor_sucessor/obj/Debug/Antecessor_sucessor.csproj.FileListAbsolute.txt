@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Antecessor_sucessor\bin\Debug\Antecessor_sucessor.exe.config
+C:\Users\diego\source\repos\Antecessor_sucessor\bin\Debug\Antecessor_sucessor.exe
+C:\Users\diego\source\repos\Antecessor_sucessor\bin\Debug\Antecessor_sucessor.pdb
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.Form1.resources
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.Properties.Resources.resources
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.exe
+C:\Users\diego\source\repos\Antecessor_sucessor\obj\Debug\Antecessor_sucessor.pdb

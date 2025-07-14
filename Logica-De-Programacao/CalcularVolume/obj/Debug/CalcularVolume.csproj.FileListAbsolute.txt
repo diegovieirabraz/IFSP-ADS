@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\CalcularVolume\bin\Debug\CalcularVolume.exe.config
+C:\Users\diego\source\repos\CalcularVolume\bin\Debug\CalcularVolume.exe
+C:\Users\diego\source\repos\CalcularVolume\bin\Debug\CalcularVolume.pdb
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.Form1.resources
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.Properties.Resources.resources
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.exe
+C:\Users\diego\source\repos\CalcularVolume\obj\Debug\CalcularVolume.pdb

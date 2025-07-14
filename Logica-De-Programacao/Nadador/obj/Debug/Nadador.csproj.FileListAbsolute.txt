@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.Form1.resources
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.Properties.Resources.resources
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Nadador\bin\Debug\Nadador.exe.config
+C:\Users\diego\source\repos\Nadador\bin\Debug\Nadador.exe
+C:\Users\diego\source\repos\Nadador\bin\Debug\Nadador.pdb
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.exe
+C:\Users\diego\source\repos\Nadador\obj\Debug\Nadador.pdb

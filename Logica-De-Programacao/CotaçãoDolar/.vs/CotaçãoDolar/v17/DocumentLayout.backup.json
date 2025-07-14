@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\Cota\u00E7\u00E3oDolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A81ABBD-681A-4A9E-9475-4318A86D33D8}|Cota\u00E7\u00E3oDolar.csproj|c:\\users\\diego\\source\\repos\\cota\u00E7\u00E3odolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A81ABBD-681A-4A9E-9475-4318A86D33D8}|Cota\u00E7\u00E3oDolar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A81ABBD-681A-4A9E-9475-4318A86D33D8}|Cota\u00E7\u00E3oDolar.csproj|c:\\users\\diego\\source\\repos\\cota\u00E7\u00E3odolar\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A81ABBD-681A-4A9E-9475-4318A86D33D8}|Cota\u00E7\u00E3oDolar.csproj|solutionrelative:conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Cota\u00E7\u00E3oDolar\\Conversao.cs",
+              "RelativeDocumentMoniker": "Conversao.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Cota\u00E7\u00E3oDolar\\Conversao.cs",
+              "RelativeToolTip": "Conversao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:31:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Cota\u00E7\u00E3oDolar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Cota\u00E7\u00E3oDolar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:28:04.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

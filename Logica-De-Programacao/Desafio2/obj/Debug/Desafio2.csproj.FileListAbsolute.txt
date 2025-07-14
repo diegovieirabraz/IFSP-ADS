@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\diego\source\repos\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\diego\source\repos\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.Form1.resources
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.Properties.Resources.resources
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\diego\source\repos\Desafio2\obj\Debug\Desafio2.pdb

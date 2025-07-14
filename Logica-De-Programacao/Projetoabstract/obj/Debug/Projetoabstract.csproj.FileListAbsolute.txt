@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.Form1.resources
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.Properties.Resources.resources
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Projetoabstract\bin\Debug\Projetoabstract.exe.config
+C:\Users\diego\source\repos\Projetoabstract\bin\Debug\Projetoabstract.exe
+C:\Users\diego\source\repos\Projetoabstract\bin\Debug\Projetoabstract.pdb
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.exe
+C:\Users\diego\source\repos\Projetoabstract\obj\Debug\Projetoabstract.pdb

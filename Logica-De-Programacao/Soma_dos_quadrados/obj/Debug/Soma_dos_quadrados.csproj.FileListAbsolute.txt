@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.Form1.resources
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.Properties.Resources.resources
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Soma_dos_quadrados\bin\Debug\Soma_dos_quadrados.exe.config
+C:\Users\diego\source\repos\Soma_dos_quadrados\bin\Debug\Soma_dos_quadrados.exe
+C:\Users\diego\source\repos\Soma_dos_quadrados\bin\Debug\Soma_dos_quadrados.pdb
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.exe
+C:\Users\diego\source\repos\Soma_dos_quadrados\obj\Debug\Soma_dos_quadrados.pdb
