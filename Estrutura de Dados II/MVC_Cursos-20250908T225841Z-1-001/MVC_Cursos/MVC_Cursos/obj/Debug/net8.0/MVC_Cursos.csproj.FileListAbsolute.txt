@@ -1,0 +1,4 @@
+C:\Faculdade\Estrutura_De_Dados\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Estrutura_De_Dados\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.AssemblyInfoInputs.cache
+C:\Faculdade\Estrutura_De_Dados\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.AssemblyInfo.cs
+C:\Faculdade\Estrutura_De_Dados\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.csproj.CoreCompileInputs.cache
