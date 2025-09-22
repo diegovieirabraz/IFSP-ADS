@@ -1,0 +1,14 @@
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\bin\Debug\net8.0\Proj Lista Agenda.exe
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\bin\Debug\net8.0\Proj Lista Agenda.deps.json
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\bin\Debug\net8.0\Proj Lista Agenda.runtimeconfig.json
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\bin\Debug\net8.0\Proj Lista Agenda.dll
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\bin\Debug\net8.0\Proj Lista Agenda.pdb
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.AssemblyInfoInputs.cache
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.AssemblyInfo.cs
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.csproj.CoreCompileInputs.cache
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.dll
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\refint\Proj Lista Agenda.dll
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.pdb
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\Proj Lista Agenda.genruntimeconfig.cache
+C:\Faculdade\Estrutura_De_Dados\Proj Lista Agenda\Proj Lista Agenda\obj\Debug\net8.0\ref\Proj Lista Agenda.dll
