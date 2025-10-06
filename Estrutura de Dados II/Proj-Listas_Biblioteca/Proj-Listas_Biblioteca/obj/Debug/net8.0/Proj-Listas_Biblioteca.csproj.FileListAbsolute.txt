@@ -1,0 +1,14 @@
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\bin\Debug\net8.0\Proj-Listas_Biblioteca.exe
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\bin\Debug\net8.0\Proj-Listas_Biblioteca.deps.json
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\bin\Debug\net8.0\Proj-Listas_Biblioteca.runtimeconfig.json
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\bin\Debug\net8.0\Proj-Listas_Biblioteca.dll
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\bin\Debug\net8.0\Proj-Listas_Biblioteca.pdb
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.AssemblyInfoInputs.cache
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.AssemblyInfo.cs
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.dll
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\refint\Proj-Listas_Biblioteca.dll
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.pdb
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\Proj-Listas_Biblioteca.genruntimeconfig.cache
+C:\Repos\Proj-Listas_Biblioteca\Proj-Listas_Biblioteca\obj\Debug\net8.0\ref\Proj-Listas_Biblioteca.dll
