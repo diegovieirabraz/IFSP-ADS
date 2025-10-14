@@ -1,0 +1,14 @@
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\bin\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.exe
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\bin\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.deps.json
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\bin\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.runtimeconfig.json
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\bin\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.dll
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\bin\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.pdb
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.AssemblyInfoInputs.cache
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.AssemblyInfo.cs
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.csproj.CoreCompileInputs.cache
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.dll
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\refint\Proj-Listas-GerenciamentoDeProjetos.dll
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.pdb
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\Proj-Listas-GerenciamentoDeProjetos.genruntimeconfig.cache
+C:\Repos\Proj-Listas-GerenciamentoDeProjetos\Proj-Listas-GerenciamentoDeProjetos\obj\Debug\net8.0\ref\Proj-Listas-GerenciamentoDeProjetos.dll
