@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    // Ajuste a string de conexão para o seu SQL Server.
+   
     private static final String DB_URL = "jdbc:sqlserver://localhost;databaseName=aulajava;encrypt=false";
     private static final String DB_USER = "sa";
     private static final String DB_PASSWORD = "22446688";
