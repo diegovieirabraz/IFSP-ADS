@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|c:\\users\\diego\\repos\\projeto transporte \u2013 pilha\\projeto transporte \u2013 pilha\\garagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|solutionrelative:projeto transporte \u2013 pilha\\garagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|c:\\users\\diego\\repos\\projeto transporte \u2013 pilha\\projeto transporte \u2013 pilha\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|solutionrelative:projeto transporte \u2013 pilha\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|c:\\users\\diego\\repos\\projeto transporte \u2013 pilha\\projeto transporte \u2013 pilha\\sistemadetransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|solutionrelative:projeto transporte \u2013 pilha\\sistemadetransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|c:\\users\\diego\\repos\\projeto transporte \u2013 pilha\\projeto transporte \u2013 pilha\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|solutionrelative:projeto transporte \u2013 pilha\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|c:\\users\\diego\\repos\\projeto transporte \u2013 pilha\\projeto transporte \u2013 pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|solutionrelative:projeto transporte \u2013 pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|c:\\users\\diego\\repos\\projeto transporte \u2013 pilha\\projeto transporte \u2013 pilha\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AB014E-F5E6-4386-92AC-8B726550E747}|PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA.csproj|solutionrelative:projeto transporte \u2013 pilha\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 384,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transporte.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Transporte.cs",
+              "RelativeDocumentMoniker": "PROJETO TRANSPORTE \u2013 PILHA\\Transporte.cs",
+              "ToolTip": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Transporte.cs",
+              "RelativeToolTip": "PROJETO TRANSPORTE \u2013 PILHA\\Transporte.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAApwJ4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T01:37:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaDeTransporte.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\SistemaDeTransporte.cs",
+              "RelativeDocumentMoniker": "PROJETO TRANSPORTE \u2013 PILHA\\SistemaDeTransporte.cs",
+              "ToolTip": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\SistemaDeTransporte.cs",
+              "RelativeToolTip": "PROJETO TRANSPORTE \u2013 PILHA\\SistemaDeTransporte.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T01:27:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Garagem.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Garagem.cs",
+              "RelativeDocumentMoniker": "PROJETO TRANSPORTE \u2013 PILHA\\Garagem.cs",
+              "ToolTip": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Garagem.cs",
+              "RelativeToolTip": "PROJETO TRANSPORTE \u2013 PILHA\\Garagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:36:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Veiculo.cs",
+              "RelativeDocumentMoniker": "PROJETO TRANSPORTE \u2013 PILHA\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Veiculo.cs",
+              "RelativeToolTip": "PROJETO TRANSPORTE \u2013 PILHA\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:35:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Program.cs",
+              "RelativeDocumentMoniker": "PROJETO TRANSPORTE \u2013 PILHA\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Program.cs",
+              "RelativeToolTip": "PROJETO TRANSPORTE \u2013 PILHA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:34:29.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viagem.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Viagem.cs",
+              "RelativeDocumentMoniker": "PROJETO TRANSPORTE \u2013 PILHA\\Viagem.cs",
+              "ToolTip": "C:\\Users\\diego\\Repos\\PROJETO TRANSPORTE \u2013 PILHA\\PROJETO TRANSPORTE \u2013 PILHA\\Viagem.cs",
+              "RelativeToolTip": "PROJETO TRANSPORTE \u2013 PILHA\\Viagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:40:17.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
