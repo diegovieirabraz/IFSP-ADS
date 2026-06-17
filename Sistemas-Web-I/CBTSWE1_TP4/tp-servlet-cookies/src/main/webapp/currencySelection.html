@@ -1,0 +1,33 @@
+<!--
+  ============================================================
+  TP - Java Servlet: Manipulacao de Cookies
+  Dupla:
+    Integrante 1 - [NOME COMPLETO DO ALUNO 1]
+    Integrante 2 - [NOME COMPLETO DO ALUNO 2]
+  ============================================================
+-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleção de Moeda</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div class="card">
+    <h1>Selecione o par de moedas</h1>
+    <p>Sua escolha será guardada em um <b>Cookie</b> no navegador.</p>
+
+    <form method="post" action="/save-exchange-rates-pair">
+        <label><input type="radio" name="currencyPair" value="USD/EUR" checked> USD/EUR</label><br/>
+        <label><input type="radio" name="currencyPair" value="USD/CAD"> USD/CAD</label><br/>
+        <label><input type="radio" name="currencyPair" value="USD/AUD"> USD/AUD</label><br/>
+        <br/>
+        <input class="btn" type="submit" value="Enviar">
+    </form>
+
+    <p><a href="/creditos.html">Créditos da dupla</a></p>
+</div>
+</body>
+</html>

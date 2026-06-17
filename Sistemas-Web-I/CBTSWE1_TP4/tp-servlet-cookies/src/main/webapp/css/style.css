@@ -1,0 +1,78 @@
+/* ============================================================
+   TP - Java Servlet: Manipulacao de Cookies
+   Dupla:
+     Integrante 1 - [NOME COMPLETO DO ALUNO 1]
+     Integrante 2 - [NOME COMPLETO DO ALUNO 2]
+   ============================================================ */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+    padding: 40px 16px;
+    color: #1a1a1a;
+}
+
+.card {
+    max-width: 480px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 28px 32px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 22px;
+    color: #2b4eff;
+}
+
+.rate {
+    font-size: 18px;
+    background: #eef2ff;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.cookie-info {
+    color: #777;
+    font-size: 13px;
+}
+
+.btn {
+    display: inline-block;
+    background: #2b4eff;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background: #1f3bd6;
+}
+
+label {
+    line-height: 1.9;
+    font-size: 15px;
+}
+
+.credits {
+    list-style: none;
+    padding: 0;
+}
+
+.credits li {
+    background: #eef2ff;
+    padding: 10px 14px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+a {
+    color: #2b4eff;
+}

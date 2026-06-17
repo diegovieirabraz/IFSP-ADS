@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ============================================================
+  TP - Java Servlet: Manipulação de Cookies
+  Dupla:
+    Integrante 1 - [NOME COMPLETO DO ALUNO 1]
+    Integrante 2 - [NOME COMPLETO DO ALUNO 2]
+  ============================================================
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.dupla.tp</groupId>
+    <artifactId>tp-servlet-cookies</artifactId>
+    <version>1.0.0</version>
+    <packaging>war</packaging>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- API de Servlet (fornecida pelo container, escopo provided) -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>3.1.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- Driver JDBC do MySQL -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.33</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>tp-servlet-cookies</finalName>
+        <plugins>
+            <!-- Permite rodar a aplicacao com: mvn jetty:run -->
+            <plugin>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-maven-plugin</artifactId>
+                <version>9.4.44.v20210927</version>
+                <configuration>
+                    <webApp>
+                        <!-- contexto na raiz para que os redirects absolutos
+                             ("/exchange-rate") funcionem como no exemplo original -->
+                        <contextPath>/</contextPath>
+                    </webApp>
+                    <httpConnector>
+                        <port>8080</port>
+                    </httpConnector>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
